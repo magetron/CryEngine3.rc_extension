@@ -1,4 +1,4 @@
-CryEngine.RC is a .NET library that wraps the CryENGINE resource compiler and adds extensions for a more complete and flexible game art pipeline.
+CryEngine.RC is a .NET library that wraps the CryENGINE resource compiler and extensions for a more complete and flexible game art pipeline.
 
 # Current Features
 
